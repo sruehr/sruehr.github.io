@@ -15,3 +15,5 @@ Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they per
 
 ## Field work
 Along with a team of other scientists and students, I am deploying a solar-induced fluorescence imager at several sites throughout California. This imager can take pictures of photosynthesis happening in real time across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves.
+
+![field](/fieldwork.jpeg)
