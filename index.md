@@ -9,6 +9,5 @@ Before starting at UC Berkeley, I lived in Cape Cod, Massachusetts and Vanuatu, 
 
 I graduated from Yale University with a B.S. in Geology & Geophysics. I also write songs for jazz guitar and regulary perform in Oakland with [my band](https://www.instagram.com/soph.n.gabe/). 
 
-<p align="center">
-   <img src="/headshot.jpg" width="300"> 
-</p>
+
+<img src="/headshot.jpg" width="300" align="center"> 
