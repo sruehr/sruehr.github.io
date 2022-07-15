@@ -14,10 +14,4 @@ Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they per
 
 
 ## Field work
-I'm out in the field! 
-
-### SIF imager
 Along with a team of other scientists and students, I am deploying a solar-induced fluorescence imager at several sites throughout California. This imager can take pictures of photosynthesis happening in real time across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves.
-
-### Tonzi Ranch 
-Tonzi Ranch is an AmeriFlux eddy covariance site operated by the Baldocchi group at UC Berkeley. The site has been shown to depend on groundwater throughout the dry season, which makes it a great site to explore my research questions. 
