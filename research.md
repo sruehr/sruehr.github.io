@@ -6,7 +6,7 @@ title: "Research"
 ## Ecosystem reliance on groundwater
 Groundwater is a critical freshwater resource for both people and ecosystems. Plants in arid and semi-arid systems often rely on groundwater throughout the year and during droughts. Access to water enables plants to continue fixing carbon from the atmosphere even under dry conditions. I use remote sensing and eddy covariance data to untangle the effects of groundwater depletion on ecosystems that are dependent on this resource.
 
-
+![gw](/groundwater.jpeg)
 
 ## Solar-induced fluorescence
 Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they perform photosynthesis. Photosynthesis can change instantaneously depending on environmental conditions, SIF responds more quickly to water stress than other vegetation indicies (like NDVI). Using SIF from satellite and ground-based sensors allows us to understand ecosystem responses to water stress over time and space.
