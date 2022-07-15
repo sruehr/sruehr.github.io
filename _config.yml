@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "/sophie.pdf", title: "CV", icon: home}
+  - {title: "Lab", url: "https://www.keenangroup.info/"}
+  - {title: "Research", file: "/research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sophie_ruehr@berkeley.edu"}
