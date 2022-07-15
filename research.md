@@ -11,7 +11,7 @@ Groundwater is a critical freshwater resource for both people and ecosystems. Pl
 ## Solar-induced fluorescence
 Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they perform photosynthesis. Photosynthesis can change instantaneously depending on environmental conditions, SIF responds more quickly to water stress than other vegetation indicies (like NDVI). Using SIF from satellite and ground-based sensors allows us to understand ecosystem responses to water stress over time and space.
 
-
+![SIF](/sif.png)
 
 ## Field work
 Along with a team of other scientists and students, I am deploying a solar-induced fluorescence imager at several sites throughout California. This imager can take pictures of photosynthesis happening in real time across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves.
