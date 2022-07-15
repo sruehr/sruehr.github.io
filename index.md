@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: ""
 ---
 
 I'm a Ph.D. candidate at UC Berkeley Department of Environmental Science, Policy and Management, where I work with Trevor Keenan and Manuela Girotto. I'm interested in water and carbon cycling at regional to global scales using remote sensing and eddy covariance data. Having worked as a journalist and oral historian, I'm also interested in human perceptions of environmental change, especially when they differ from scientific findings. 
