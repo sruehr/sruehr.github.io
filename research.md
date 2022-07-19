@@ -14,7 +14,7 @@ Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they per
 
 ![SIF](/sif.png)
 _SIF at a grassland in Point Reyes, CA_
-![SIF2](/sig2.jpeg)
+![SIF2](/sif2.jpeg)
 _SIF at an experimental vineyard in Hopland, CA_
 
 ## Field work
