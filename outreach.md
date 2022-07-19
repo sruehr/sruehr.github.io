@@ -11,6 +11,8 @@ Check out our lab [TikTok account](https://www.tiktok.com/@keenan_group_berkeley
 ## Mentoring 
 I've mentored four undergraduate students while at UC Berkeley on a variety of research and outreach projects, including writing newspaper articles, getting started with coding, and working with eddy covariance and remote sensing data. 
 
+![mentee](/mentees.jpeg)
+
 ## Committment to inclusion, equity and diversity 
 I am deeply committed to furthering diveristy, equity and inclusion (DEI) iniatives at UC Berkeley and beyond. I am part of my department's Graduate Diversity Council, which promotes DEI for graduate students through organizing and community building. I am also a member of the AmeriFlux DEI committee, where I have been involved in field safety and inclusion workshops. Before going out into the field, I ask my team members to read and accept our [lab's policy](https://docs.google.com/document/d/1HsYOIUlEyzTcOv2s0NeGWneODMmOy28qmMEwzD_I5z8/edit?usp=sharing) on field safety and inclusion, which I adapted from Benjamin Blonder's statement.
 
