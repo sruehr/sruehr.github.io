@@ -13,10 +13,10 @@ _A groundwater-dependent ecosystem in the Sierra Nevada_
 Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they perform photosynthesis and capture carbon from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions. Using SIF from satellite and ground-based sensors allows us to understand ecosystem responses to the environment and climate change over time and space. 
 
 <p align="center">
-  ![SIF](/sif.png)
-  _SIF at a grassland in Point Reyes, CA_
-  ![SIF2](/sif2.jpeg)
-  _SIF at an experimental vineyard in Hopland, CA_
+![SIF](/sif.png)
+_SIF at a grassland in Point Reyes, CA_
+![SIF2](/sif2.jpeg)
+_SIF at an experimental vineyard in Hopland, CA_
 </p>
 
 
