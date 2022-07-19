@@ -31,5 +31,5 @@ Along with a team of other scientists and students, I am deploying a hyperpsectr
 
 <p align="center">
   <img src="/fieldwork.jpeg">
-  <em>The team at an AmeriFlux site deploying a hyperspectral imager! </em>
+  <em>The team at an AmeriFlux site deploying a hyperspectral imager </em>
 </p>
