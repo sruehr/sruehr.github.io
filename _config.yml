@@ -20,7 +20,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publications", file: "publications.md"}
   - {title: "Outreach", file: "outreach.md"}
   - {title: "Press", file: "press.md"}
- # - {title: "Publications", file: "publications.md"}
   - {title: "CV", url: "/CV.pdf"}
   - {title: "Lab", url: "https://www.keenangroup.info/"}
 
