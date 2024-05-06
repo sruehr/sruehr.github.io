@@ -14,7 +14,7 @@ Check out our lab [TikTok account](https://www.tiktok.com/@keenan_group_berkeley
  </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ## Mentoring 
-I have mentored four undergraduate students while at UC Berkeley on a variety of research and outreach projects, including writing newspaper articles, getting started with coding, and working with eddy covariance and remote sensing data. 
+I have mentored four undergraduate students while at UC Berkeley on a variety of research and outreach projects, including writing newspaper articles, getting started with coding, and working with eddy covariance and remote sensing data. Two of my undergratuate mentees presented their work at the American Geophysical Union's annual conference.
 
 ![mentee](/mentees.jpeg)
 
