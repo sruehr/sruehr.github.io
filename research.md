@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Sustainable water use in agriculture
-Farming food that is healthy for both the environment and people remains a global challenge, especially in arid regions where fresh water is a limited resource. As we found in [our paper](, intensive irrigation in farmland can create local temperature depressions, with benefits for human health, but may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. I am currently studying the tradeoffs between water use and crop growth using remote sensing data over California. 
+Farming food that is healthy for both the environment and people remains a global challenge, especially in arid regions where fresh water is a limited resource. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), intensive irrigation in farmland can create local temperature depressions, with benefits for human health, but may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. I am currently studying the tradeoffs between water use and crop growth using remote sensing data over California. 
 
 <p align="center">
   <img src="/photos/cropland.jpeg">
@@ -39,3 +39,7 @@ Groundwater is a critical freshwater resource for both people and ecosystems. Pl
   <img src="/photos/tonzi.jpeg">
   <em>A groundwater-dependent ecosystem in the Sierra Nevada foothills</em>
 </p>
+
+## Human perceptions of climate change
+People have developed many ways of studying the environment, and not all of these frameworks have historically been respected by western science. Yet these stewardship practices and observational techniques can provide fresh insights on environmental issues. As a journalist and oral historian, I value diverse perspectives throughout the research process. In Vanuatu, where I undertook [paleoclimate and oral history research](https://islandstudies.ca/sites/default/files/ISJRuehrLandGuardiansVanuatu.pdf), I learned how migration, global economies, and kinship networks affect communities' strategies to remain safe and connected under a changing climate.
+
