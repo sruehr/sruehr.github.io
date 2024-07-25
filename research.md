@@ -17,7 +17,7 @@ Groundwater is a critical freshwater resource for both people and ecosystems. Pl
 
 <p align="center">
   <img src="/photos/tonzi.jpeg">
-  <em>A groundwater-dependent ecosystem in the Sierra Nevada</em>
+  <em>A groundwater-dependent ecosystem in the Sierra Nevada foothills</em>
 </p>
 
 ## Solar-induced fluorescence
