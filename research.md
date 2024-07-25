@@ -8,7 +8,7 @@ Farming food that is healthy for both the environment and people remains a globa
 
 <p align="center">
   <img src="/cropland.png">
-  <em>Cropland near Davis, California</em>
+  <em>Cropland and evapotranspiration over Davis, California</em>
 </p>
 
 
