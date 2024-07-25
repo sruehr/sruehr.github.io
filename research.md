@@ -11,15 +11,6 @@ Farming food that is healthy for both the environment and people remains a globa
   <em>Cropland and evapotranspiration over Davis, California</em>
 </p>
 
-
-## Ecosystem reliance on groundwater
-Groundwater is a critical freshwater resource for both people and ecosystems. Plants in arid and semi-arid systems often rely on groundwater throughout the year and during droughts. Access to water enables plants to continue fixing carbon from the atmosphere even under dry conditions. I use remote sensing and eddy covariance data to untangle the effects of groundwater depletion on ecosystems that are dependent on groundwater, with the goal of predicting carbon cycling and ecosystem function under future climate change. In [our recent paper](https://doi.org/10.1016/j.agrformet.2023.109725), we found that groundwater drought can diminish carbon fixation and sequestration rates by almost 20%.
-
-<p align="center">
-  <img src="/photos/tonzi.jpeg">
-  <em>A groundwater-dependent ecosystem in the Sierra Nevada foothills</em>
-</p>
-
 ## Solar-induced fluorescence
 Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they perform photosynthesis and capture carbon from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions. Using SIF from satellite and ground-based sensors allows us to understand ecosystem responses to the environment and climate change over time and space. 
 
@@ -39,4 +30,12 @@ Along with a team of other scientists and students, I am deploying a hyperpsectr
 <p align="center">
   <img src="/photos/fieldwork.jpeg">
   <em>The team at an AmeriFlux site deploying a hyperspectral imager </em>
+</p>
+
+## Ecosystem reliance on groundwater
+Groundwater is a critical freshwater resource for both people and ecosystems. Plants in arid and semi-arid systems often rely on groundwater throughout the year and during droughts. Access to water enables plants to continue fixing carbon from the atmosphere even under dry conditions. I use remote sensing and eddy covariance data to untangle the effects of groundwater depletion on ecosystems that are dependent on groundwater, with the goal of predicting carbon cycling and ecosystem function under future climate change. In [our recent paper](https://doi.org/10.1016/j.agrformet.2023.109725), we found that groundwater drought can diminish carbon fixation and sequestration rates by almost 20%.
+
+<p align="center">
+  <img src="/photos/tonzi.jpeg">
+  <em>A groundwater-dependent ecosystem in the Sierra Nevada foothills</em>
 </p>
