@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Sustainable water use in agriculture
-Farming food that is healthy for both the environment and people remains a global challenge, especially in arid regions where fresh water is a limited resource. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), although intensive irrigation in farmland can create local temperature depressions that benefit human health, it may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. I am currently studying the tradeoffs between water use and crop growth using remote sensing data over California. 
+Farming food that is healthy for both the environment and people remains a global challenge, especially in arid regions where fresh water is a limited resource. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), although intensive irrigation in farmland can create local temperature depressions that benefit human health, it may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. I study the tradeoffs between water use and crop growth using remote sensing data. 
 
 <p align="center">
   <img src="/photos/crops2.jpeg">
