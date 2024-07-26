@@ -8,7 +8,7 @@ title: "Publications"
 - **Ruehr, S.,** Gerlein-Safdi, C., Falco, N., Seibert, P., Chou, C., Albert, L., Keenan, T.F. Quantifying seasonal and diurnal cycles of solar-induced fluorescence with a novel hyperspectral imager. 2024. _Geophysical Research Letters_, 15, 14. [10.1029/2023GL107429](https://doi.org/10.1029/2023GL107429).
 
 <p align="center">
-  <img src="/photos/published/grl.jpeg" style="width:50%;">
+  <img src="/photos/published/grl.jpeg" style="width:50%; display:block; margin:0 auto;" >
 </p>
 
 - **Ruehr, S.,** Girotto, G., Verfaillie, J., Balodcchi, D., Cabon, A., Keenan, T.F. 2023. Ecosystem groundwater use enhances carbon sinks in a semi-arid oak savanna. _Agricultural & Forest Meteorology_, 342, 109725. [10.1016/j.agrformet.2023.109725](https://doi.org/10.1016/j.agrformet.2023.109725).
