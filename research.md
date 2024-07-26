@@ -7,7 +7,7 @@ title: "Research"
 Farming food that is healthy for both the environment and people remains a global challenge, especially in arid regions where fresh water is a limited resource. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), intensive irrigation in farmland can create local temperature depressions, with benefits for human health, but may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. I am currently studying the tradeoffs between water use and crop growth using remote sensing data over California. 
 
 <p align="center">
-  <img src="/photos/cropland.jpeg">
+  <img src="/photos/crops2.jpeg">
   <em>Cropland and evapotranspiration over Davis, California</em>
 </p>
 
