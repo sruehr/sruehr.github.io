@@ -11,5 +11,5 @@ I graduated from Yale University with a B.S. in Geology & Geophysics. I write so
 
 
 <p align="center">
-  <img src="/photos/headshot.jpg" style="width:50%; display:block; margin:0 auto;">
+  <img src="/headshot.jpg" style="width:50%; display:block; margin:0 auto;">
 </p>
