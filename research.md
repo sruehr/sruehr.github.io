@@ -25,7 +25,7 @@ Solar-induced fluorescence (SIF) is a phenomenon of plants 'glowing' as they per
   <em>SIF at an experimental vineyard in Hopland, CA</em>
 </p>
 
-Along with a team of other scientists and students, I am deploying a **hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. We're currently working with the imager to answer questions about drought, soil warming, and plant disease on carbon fixation rates. This work will help us understand **terrestrial ecosystem functionality** and predict **carbon cycling under** climate change. Check out our [new paper](http://dx.doi.org/10.1029/2023GL107429) on our SIF fieldwork published in _Geophysical Research Letters_. 
+Along with a team of other scientists and students, I am deploying a **hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. We're currently working with the imager to answer questions about drought, soil warming, and plant disease on carbon fixation rates. This work will help us understand **terrestrial ecosystem functionality** and predict **carbon cycling** under climate change. Check out our [new paper](http://dx.doi.org/10.1029/2023GL107429) on our SIF fieldwork published in _Geophysical Research Letters_. 
 
 <p align="center">
   <img src="/photos/fieldwork.jpeg">
