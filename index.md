@@ -12,5 +12,5 @@ I graduated from Yale University with a B.S. in Geology & Geophysics. I write so
 
 <p align="center">
   <img src="/headshot.png" style="width:50%; display:block; margin:0 auto;">
-  <span style="font-size: 0.8em; color: #555;">Photo by Mathew E Burciaga</span>
+  <span style="font-size: 0.6em; color: #555;">Photo by Mathew E Burciaga</span>
 </p>
