@@ -5,7 +5,7 @@ title: ""
 
 
 <p align="center">
-  <img src="/headshot_landscape.png" style="width:100%; display:block; margin:0 auto;">
+  <img src="/headshot_darkshirt.png" style="width:100%; display:block; margin:0 auto;">
   <span style="font-size: 0.4em; align = 'center'; color: #555;">Photo by Mathew E Burciaga</span>
 </p>
 
