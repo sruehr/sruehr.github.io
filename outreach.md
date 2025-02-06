@@ -3,7 +3,7 @@ layout: post
 title: "Outreach"
 ---
 ## Data visualization
-I independently designed and developed a GUI web application to visualize over 3GB of eddy covariance flux and meteorologic data from over 400 AmeriFlux sites. The app is live on the AmeriFlux website, and the code is available on my [GitHub repository](https://github.com/sruehr/ameriflux_visualization){:target="_blank" rel="noopener"}.
+I independently designed and developed a GUI web application to visualize over 3GB of eddy covariance flux and meteorologic data from over 400 AmeriFlux sites. The app is live on the [AmeriFlux website](https://ameriflux.lbl.gov/resources/resource-list/tools-and-software-for-flux-scientists/), and the code is available on my [GitHub repository](https://github.com/sruehr/ameriflux_visualization){:target="_blank" rel="noopener"}.
 
 <iframe src="https://ameriflux.shinyapps.io/version1/" style="border: 10px" width="100%" height="600"></iframe>
 
