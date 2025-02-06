@@ -5,7 +5,7 @@ title: "Outreach"
 ## Data visualization
 I independently designed and developed a GUI web application to visualize over 3GB of eddy covariance flux and meteorologic data from over 400 AmeriFlux sites. The app is live on the AmeriFlux website, and the code is available on my [GitHub repository](https://github.com/sruehr/ameriflux_visualization){:target="_blank" rel="noopener"}.
 
-<iframe src="https://ameriflux.shinyapps.io/version1/" style="border: 10px" width="100%" height="400"></iframe>
+<iframe src="https://ameriflux.shinyapps.io/version1/" style="border: 10px" width="100%" height="600"></iframe>
 
 ## Science communication
 Check out our lab [TikTok account](https://www.tiktok.com/@keenan_group_berkeley/video/7119601257584790830?is_copy_url=1&is_from_webapp=v1){:target="_blank" rel="noopener"} for some great videos explaining how we undertake fieldwork with a solar-induced fluorescence imager. The videos were created by an undergraduate student who I mentor in our lab. I also recently wrote for the [_Berkeley Science Review_](https://www.berkeleysciencereview.com/article/2022/05/03/out-of-the-soil-into-the-atmosphere){:target="_blank" rel="noopener"} on a soil warming experiment in Point Reyes, CA.
