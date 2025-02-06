@@ -27,6 +27,6 @@ I have written for [_InsideClimate News_](https://insideclimatenews.org/news/011
 <iframe src="https://provincetownindependent.org/author/s-ruehr/" 
         style="border: 10px" 
         width="100%" 
-        height="400" 
+        height="800" 
         sandbox="allow-same-origin allow-scripts">
 </iframe>
