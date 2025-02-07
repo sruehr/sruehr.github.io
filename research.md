@@ -47,7 +47,7 @@ Recently, we considered the role of groundwater in modulating carbon uptake. Pla
 
 ## Community management decisions & perceptions
 
-People have developed many ways of studying the environment, and not all of these frameworks have historically been respected by western science. Yet these **stewardship practices** and observational techniques can provide fresh insights on environmental issues. As a journalist and oral historian, I value **stakeholder perspectives** throughout the research process. In Vanuatu, where I undertook [paleoclimate and oral history research](https://islandstudies.ca/sites/default/files/ISJRuehrLandGuardiansVanuatu.pdf), I learned how migration, global economies, and kinship networks affect communities' strategies to remain safe and connected under a changing climate. This experience motivates me to work with stakeholders to improve applicability and **identify policy implications.**
+People have developed many ways of studying the environment, and not all of these frameworks have historically been respected by western science. Yet these **stewardship practices** and observational techniques can provide fresh insights on environmental issues. As a journalist and oral historian, I value **stakeholder perspectives** throughout the research process. In Vanuatu, where I undertook [paleoclimate and oral history research](https://islandstudies.ca/sites/default/files/ISJRuehrLandGuardiansVanuatu.pdf), I learned how migration, global economies, and kinship networks affect communities' strategies to remain safe and connected under a changing climate. This experience motivates me to work with stakeholders to improve our research's applicability and **identify policy implications.**
 
 
 <p align="center">
