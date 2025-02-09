@@ -5,12 +5,14 @@ title: "Publications"
 
 ### Climate & ecosystems ###
 
+- **Ruehr, S.,** Bassiouni, M., Kang, Y., Socolar, Y., Magney, T., Keenan, T.F. Crop diversification enhances cropland water efficiency across California's Central Valley (in prep).
+
+- \authors{Sophie Ruehr\affil{1,2}, Maoya Bassiouni\affil{1}, Yanghui Kang\affil{1,5}, Yvonne Socolar\affil{1}, Troy Magney\affil{3}, and Trevor F. Keenan\affil{1,2}}
+
 - **Ruehr, S.,** Gerlein-Safdi, C., Falco, N., Seibert, P., Chou, C., Albert, L., Keenan, T.F. Quantifying seasonal and diurnal cycles of solar-induced fluorescence with a novel hyperspectral imager. 2024. _Geophysical Research Letters_, 15, 14. [10.1029/2023GL107429](https://doi.org/10.1029/2023GL107429).
 
 <p align="center">
-  <a href="https://doi.org/10.1029/2023GL107429" target="_blank" rel="noopener noreferrer">
-    <img src="/photos/published/grl.jpeg" style="width:50%; display:block; margin:0 auto;" >
-  </a>
+    <img src="/photos/published/maps_WUE.png" style="width:50%; display:block; margin:0 auto;" >
 </p>
 
 - **Ruehr, S.,** Girotto, G., Verfaillie, J., Balodcchi, D., Cabon, A., Keenan, T.F. 2023. Ecosystem groundwater use enhances carbon sinks in a semi-arid oak savanna. _Agricultural & Forest Meteorology_, 342, 109725. [10.1016/j.agrformet.2023.109725](https://doi.org/10.1016/j.agrformet.2023.109725).
