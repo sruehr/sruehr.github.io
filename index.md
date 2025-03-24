@@ -10,7 +10,7 @@ title: ""
 </p>
 
 # Dr. Sophie Ruehr, Ph.D.
-## Postdoctoral Researcher, UC Berkeley 
+### Postdoctoral Researcher, UC Berkeley 
 
 I received my Ph.D. from UC Berkeley’s Department of Environmental Science, Policy and Management, where I was advised by Trevor Keenan and Manuela Girotto. My work focuses on the biophysical effects of drought at ecosystem and landscape scales. Using near-surface and satellite remote sensing data, I’ve studied how [groundwater drought](https://doi.org/10.1016/j.agrformet.2023.109725) affects carbon sequestration, the effectiveness of [cutting-edge hyperspectral instruments](https://doi.org/10.1029/2023GL107429) to estimate primary productivity, and the benefits of sustainable management strategies on agricultural water-use efficiency. In 2025, I will begin a postdoctoral fellowship within the Rosa and Dukes labs at the Carnegie Institution for Science at Stanford. Having worked as a journalist and oral historian, I'm also interested in community perceptions of environmental change, especially when these differ from scientific findings. 
 
