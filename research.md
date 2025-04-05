@@ -3,7 +3,7 @@ layout: post
 title: "Research"
 ---
 
-## Sustainable management towards drought resilience
+## Sustainable management towards drought and fire resilience
 Supporting fire- and drought-resilient ecosystems remains a global challenge, especially in **arid regions** where fresh water is a limited resource. My research identifies sustainable management strategies that benefit ecosystem services under drought. Recently, I have considered the tradeoffs between water use and crop growth using **remote sensing data** under different management and climate scenarios. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), although intensive **irrigation** in farmland can create local temperature depressions that benefit human health, it may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. 
 
 Keep an eye out for our [**upcoming paper**](https://doi.org/10.21203/rs.3.rs-6322235/v1) on how sustainable management practices improve agricultural water-use efficiency!
