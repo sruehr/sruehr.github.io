@@ -13,7 +13,7 @@ Keep an eye out for our [**upcoming paper**](https://doi.org/10.21203/rs.3.rs-63
   <em>Cropland, vegetation cover and evapotranspiration over Davis, California</em>
 </p>
 
-## Near-surface remote sensing for drought detection and carbon-water coupling
+## Near-surface remote sensing for drought detection and carbon dynamics
 Pairing satellite-based sensors with instruments deployed from the ground -- on drones, towers, airplanes, or from your hand -- helps us understand the global signals we see from space. I use field-based experiments to consider how systems respond under varying management interventions and water limitiation. I am also interested in developing **low-cost sensors** for applications in industry and citizen science.
 
 Along with a team of other scientists and students, I deployed an **ultra-hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. This signal, solar-induced fluorescence (SIF), is a phenomenon of plants 'glowing' as they perform photosynthesis and **capture carbon** from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions and are sensitive to water stress, making SIF a useful drought indicator.  
