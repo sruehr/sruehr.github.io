@@ -3,8 +3,8 @@ layout: post
 title: "Research"
 ---
 
-## Sustainable water use in agriculture
-Farming food that is healthy for both the environment and people remains a global challenge, especially in **arid regions** where fresh water is a limited resource. I study the tradeoffs between water use and crop growth using **remote sensing data** under different management and climate scenarios. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), although intensive **irrigation** in farmland can create local temperature depressions that benefit human health, it may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. 
+## Sustainable management towards drought resilience
+Supporting fire- and drought-resilient ecosystems remains a global challenge, especially in **arid regions** where fresh water is a limited resource. My research identifies sustainable management strategies that benefit ecosystem services under drought. Recently, I have considered the tradeoffs between water use and crop growth using **remote sensing data** under different management and climate scenarios. As we found in [our paper](https://www.sciencedirect.com/science/article/abs/pii/S0140196320300331), although intensive **irrigation** in farmland can create local temperature depressions that benefit human health, it may also result in unsustainable water use long-term. Balancing these needs is crucial for a more sustainable future. 
 
 Keep an eye out for our [**upcoming paper**](https://doi.org/10.21203/rs.3.rs-6322235/v1) on how sustainable management practices improve agricultural water-use efficiency!
 
@@ -13,10 +13,10 @@ Keep an eye out for our [**upcoming paper**](https://doi.org/10.21203/rs.3.rs-63
   <em>Cropland, vegetation cover and evapotranspiration over Davis, California</em>
 </p>
 
-## Near-surface remote sensing
+## Near-surface remote sensing for drought detection
 Pairing satellite-based sensors with instruments deployed from the ground -- on drones, towers, airplanes, or from your hand -- helps us understand the global signals we see from space. I use field-based experiments to consider how systems respond under varying management interventions and water limitiation. I am also interested in developing **low-cost sensors** for applications in industry and citizen science.
 
-Along with a team of other scientists and students, I deployed an **ultra-hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. This signal, solar-induced fluorescence (SIF), is a phenomenon of plants 'glowing' as they perform photosynthesis and **capture carbon** from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions.  
+Along with a team of other scientists and students, I deployed an **ultra-hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. This signal, solar-induced fluorescence (SIF), is a phenomenon of plants 'glowing' as they perform photosynthesis and **capture carbon** from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions and are sensitive to water stress, making SIF a useful drought indicator.  
 
 We're working with the hyperpsectral imager to answer questions about drought, soil warming, and plant disease on carbon fixation rates. This work will help us understand **terrestrial ecosystem functionality** and predict **carbon cycling** under climate change. Check out our [new paper](http://dx.doi.org/10.1029/2023GL107429) on our SIF fieldwork published in _Geophysical Research Letters_. 
 
