@@ -13,7 +13,7 @@ Keep an eye out for our [**upcoming paper**](https://doi.org/10.21203/rs.3.rs-63
   <em>Cropland, vegetation cover and evapotranspiration over Davis, California</em>
 </p>
 
-## Near-surface remote sensing for drought detection
+## Near-surface remote sensing for drought detection and carbon-water coupling
 Pairing satellite-based sensors with instruments deployed from the ground -- on drones, towers, airplanes, or from your hand -- helps us understand the global signals we see from space. I use field-based experiments to consider how systems respond under varying management interventions and water limitiation. I am also interested in developing **low-cost sensors** for applications in industry and citizen science.
 
 Along with a team of other scientists and students, I deployed an **ultra-hyperpsectral imager** at field sites in California. The imager takes 'pictures' of photosynthesis across a landscape, capturing differences in carbon fixation rates between individual plants and even leaves. This signal, solar-induced fluorescence (SIF), is a phenomenon of plants 'glowing' as they perform photosynthesis and **capture carbon** from the atmosphere. Rates of photosynthesis can change instantaneously depending on environmental conditions and are sensitive to water stress, making SIF a useful drought indicator.  
@@ -35,7 +35,7 @@ We're working with the hyperpsectral imager to answer questions about drought, s
   <em>The team at an AmeriFlux site deploying a hyperspectral imager </em>
 </p>
 
-## Ecohydrology
+## Advancing mechanistic understanding through ecohydrology 
 Ecosystems rely on water to grow and thrive. When plants take up carbon through tiny pores on their leaves, called stomata, they also release water into the atmosphere. This inherent tradeoff can determine rates of **carbon sequestration** at the ecosystem and regional scale. I use remote sensing and **eddy covariance flux tower data** to untangle the effects of water scarcity on ecosystems, with the goal of predicting carbon cycling and **ecosystem function** under future climate change. 
 
 Recently, we considered the role of groundwater in modulating carbon uptake. Plants in arid and semi-arid systems often rely on groundwater throughout the year and during droughts. In [our recent paper](https://doi.org/10.1016/j.agrformet.2023.109725), we found that groundwater drought can diminish carbon fixation and sequestration rates by almost 20%. Since groundwater is a critical freshwater resource for both people and ecosystems, understanding these complex and often over-looked interactions is important for regional water budgets, along with climate mitigation and adaptation goals.
