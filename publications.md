@@ -9,7 +9,8 @@ title: "Publications"
 
 <p align="center">
       <a href="https://doi.org/10.21203/rs.3.rs-6322235/v1">
-    <img src="/photos/published/maps_WUE.png" style="width:50%; display:block; margin:0 auto;" >
+          <img src="/photos/published/maps_WUE.png" style="width:50%; display:block; margin:0 auto;" >
+       </a>
 </p>
 
 - **Ruehr, S.,** Gerlein-Safdi, C., Falco, N., Seibert, P., Chou, C., Albert, L., Keenan, T.F. Quantifying seasonal and diurnal cycles of solar-induced fluorescence with a novel hyperspectral imager. 2024. _Geophysical Research Letters_, 15, 14. [10.1029/2023GL107429](https://doi.org/10.1029/2023GL107429).
