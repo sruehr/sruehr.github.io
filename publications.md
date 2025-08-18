@@ -56,7 +56,7 @@ title: "Publications"
 </p>
 
 ### Data consulting & past work ###
-- Rutkove, S.B., Le, M., Nagy, J.A., **Ruehr, S.,** Semple, C., Sanchez, B. 2022. Design and pilot testing of a 26-gauge impedance-electromyography (iEMG) needle in wild type and ALS mice. _Nerve & Muscle_, 65, 6. [10.1002/mus.27551](10.1002/mus.27551).
+- Rutkove, S.B., Le, M., Nagy, J.A., **Ruehr, S.,** Semple, C., Sanchez, B. 2022. Design and pilot testing of a 26-gauge impedance-electromyography (iEMG) needle in wild type and ALS mice. _Nerve & Muscle_, 65, 6. [10.1002/mus.27551](https://pubmed.ncbi.nlm.nih.gov/35383969/).
 
 - Espeland, M., Hall, J.P., DeVries, P.J., Lees, D.C., Cornwall, M., Hsu, Y., Wu, L., Campbell, D.L., Talavera, G., Vila, R., Salzman, S., **Ruehr, S.,** Lohman, J.D., Pierce, N.E. 2015. Ancient Neotropical origin and recent recolonisation: Phylogeny, biogeography and diversification of the Riodinidae (Lepidoptera: Papilionoidea). _Molecular Phylogenetic Evolution_, 93, 296-306. [10.1016/j.ympev.2015.08.006](https://doi.org/10.1016/j.ympev.2015.08.006).
 
