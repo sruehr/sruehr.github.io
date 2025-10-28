@@ -5,7 +5,7 @@ title: "Publications"
 
 ### Climate & ecosystems ###
 
-- **Ruehr, S.,** Bassiouni, M., Kang, Y., Socolar, Y., Magney, T., Keenan, T.F. Crop diversification enhances cropland water efficiency across California's Central Valley (preprint here: [10.21203/rs.3.rs-6322235/v1](https://doi.org/10.21203/rs.3.rs-6322235/v1)).
+- **Ruehr, S.,** Bassiouni, M., Kang, Y., Socolar, Y., Magney, T., Keenan, T.F. Crop diversification improves water-use efficiency and regional water sustainability. _Environmental Research Letters_, 20, 114062. [10.1088/1748-9326/ae15a9](https://doi.org/10.1088/1748-9326/ae15a9). 
 
 <p align="center">
       <a href="https://doi.org/10.21203/rs.3.rs-6322235/v1">
