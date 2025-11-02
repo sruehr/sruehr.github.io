@@ -8,7 +8,7 @@ title: "Publications"
 - **Ruehr, S.,** Bassiouni, M., Kang, Y., Socolar, Y., Magney, T., Keenan, T.F. Crop diversification improves water-use efficiency and regional water sustainability. _Environmental Research Letters_, 20, 114062. [10.1088/1748-9326/ae15a9](https://doi.org/10.1088/1748-9326/ae15a9). 
 
 <p align="center">
-      <a href="https://doi.org/10.21203/rs.3.rs-6322235/v1">
+      <a href="https://doi.org/10.1088/1748-9326/ae15a9">
           <img src="/photos/published/maps_WUE.png" style="width:50%; display:block; margin:0 auto;" >
        </a>
 </p>
