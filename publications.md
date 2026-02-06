@@ -5,6 +5,8 @@ title: "Publications"
 
 ### Climate & ecosystems ###
 
+- D Ospina D et al. (70 authors incl. **S Ruehr**). 2026. Ten new insights in climate science 2026. Global Sustainability, 9:e6. [10.1017/sus.2025.10043](https://www.cambridge.org/core/journals/global-sustainability/article/ten-new-insights-in-climate-science-2025/8273DE03FB570A1C5EB88D0112AFE37D).
+
 - ZA Pierrat, RN Gustine, A Boser, **S Ruehr**, CM Lee, JT Reager, K Cawse-Nicholson. 2026. Human contributions to evapotranspiration mitigate swings in dry-to-wet year transitions. _Communications Sustainability_, 1, 8. [10.1038/s44458-025-00002-w](https://www.nature.com/articles/s44458-025-00002-w). 
 
 - **S Ruehr**, M Bassiouni, Y Kang, Y Socolar, T Magney, TF Keenan. 2025. Crop diversification improves water-use efficiency and regional water sustainability. _Environmental Research Letters_, 20, 114062. [10.1088/1748-9326/ae15a9](https://doi.org/10.1088/1748-9326/ae15a9). 
