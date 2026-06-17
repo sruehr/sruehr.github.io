@@ -5,7 +5,17 @@ title: "Publications"
 
 ### Climate & ecosystems ###
 
-- D Ospina D et al. (70 authors incl. **S Ruehr**). 2026. Ten new insights in climate science 2026. Global Sustainability, 9:e6. [10.1017/sus.2025.10043](https://www.cambridge.org/core/journals/global-sustainability/article/ten-new-insights-in-climate-science-2025/8273DE03FB570A1C5EB88D0112AFE37D).
+- **S Ruehr**, Pierrat Z, Parazoo N, Keenan TF. 2026. Harnessing solar-induced fluorescence for agricultural research and management. _Environmental Research Letters_. [10.1088/1748-9326/ae74e2](https://iopscience.iop.org/article/10.1088/1748-9326/ae74e2).
+
+<p align="center">
+  <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ae74e2">
+    <img src="/photos/published/sif_ag.pdf" style="width:50%; display:block; margin:0 auto;">
+  </a>
+</p>
+
+- Rao et al. (29 authors incl. **S Ruehr**). 2026. Decoupled carbon assimilation and growth responses to aridity in temperate deciduous oaks. _Science Advances_. [10.1126/sciadv.ady7139](https://www.science.org/doi/10.1126/sciadv.ady7139).
+
+- D Ospina D et al. (70 authors incl. **S Ruehr**). 2026. Ten new insights in climate science 2026. _Global Sustainability_, 9:e6. [10.1017/sus.2025.10043](https://www.cambridge.org/core/journals/global-sustainability/article/ten-new-insights-in-climate-science-2025/8273DE03FB570A1C5EB88D0112AFE37D).
 
 - ZA Pierrat, RN Gustine, A Boser, **S Ruehr**, CM Lee, JT Reager, K Cawse-Nicholson. 2026. Human contributions to evapotranspiration mitigate swings in dry-to-wet year transitions. _Communications Sustainability_, 1, 8. [10.1038/s44458-025-00002-w](https://www.nature.com/articles/s44458-025-00002-w). 
 
