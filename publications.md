@@ -9,7 +9,7 @@ title: "Publications"
 
 <p align="center">
   <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ae74e2">
-    <img src="/photos/published/sif_ag.pdf" style="width:50%; display:block; margin:0 auto;">
+    <img src="/photos/published/sif_ag.jpg" style="width:50%; display:block; margin:0 auto;">
   </a>
 </p>
 
