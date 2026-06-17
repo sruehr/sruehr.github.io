@@ -2,6 +2,8 @@
 layout: post
 title: "Publications"
 ---
+ 
+ See my [CV](https://sruehr.github.io/CV.pdf) for a complete list.
 
 ### Climate & ecosystems ###
 
