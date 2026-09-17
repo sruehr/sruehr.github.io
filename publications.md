@@ -7,6 +7,9 @@ title: "Publications"
 
 ### Climate & ecosystems ###
 
+- Dannenberg M, Barnes M, Biederman J, Johnston M, Meerdink S, **Ruehr S**, Scott R, Smith W, Williams P. 2026. DrylANNd: twenty years of monthly, 0.05° gross primary production and evapotranspiration estimates for global drylands. _Environmental Research: Ecology_. [10.1088/2752-664X/ae8f4f](https://iopscience.iop.org/article/10.1088/2752-664X/ae8f4f).
+
+
 - **S Ruehr**, Pierrat Z, Parazoo N, Keenan TF. 2026. Harnessing solar-induced fluorescence for agricultural research and management. _Environmental Research Letters_. [10.1088/1748-9326/ae74e2](https://iopscience.iop.org/article/10.1088/1748-9326/ae74e2).
 
 <p align="center">
